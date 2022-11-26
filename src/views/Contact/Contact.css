@@ -1,0 +1,11 @@
+.contact-container{
+    background-color: rgb(153, 255, 0);
+    min-height: 100vh;
+
+}
+
+.contact-heading{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}

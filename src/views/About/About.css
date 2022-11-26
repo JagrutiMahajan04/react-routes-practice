@@ -1,0 +1,11 @@
+.about-container{
+    background-color: rgb(253, 139, 221);
+    min-height: 100vh;
+
+}
+
+.about-heading{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
